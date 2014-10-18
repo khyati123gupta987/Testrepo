@@ -1,0 +1,15 @@
+constants
+excel
+report.dao
+consolidated
+
+
+Quarter close and end
+Admin screen
+
+on click of synch buttons
+information will go to temp_emp table and then manager reporting heirarchy regon and employee type quarter will be ypdated in employee details 
+reporting manager will be updated in
+
+continue button for admins- notification to PM with project and resource name and manager.
+manager needs to approve
